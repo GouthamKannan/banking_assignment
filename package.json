@@ -1,0 +1,14 @@
+{
+  "name": "banking",
+  "version": "1.0.0",
+  "description": "banking solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "goutham",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
